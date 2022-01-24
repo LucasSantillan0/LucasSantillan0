@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1> Holaaa!</h1>
+Soy un desarrollador web con ganas de aportar soluciones innovadoras.
+
+<hr/>
+
+<h2> Mis proyectos</h2>
+
+<h4>Dog project</h4>
+
+<img src="./pidog.PNG"/>
 
 <!--
 **LucasSantillan0/LucasSantillan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
