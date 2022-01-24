@@ -7,6 +7,7 @@ Soy un desarrollador web con ganas de aportar soluciones innovadoras.
 
 <h4>Dog project</h4>
 
+<video src="./dogvideo.mp4"></video>
 <img src="./dogspi.PNG"/>
 
 <!--
