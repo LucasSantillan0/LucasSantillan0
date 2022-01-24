@@ -1,5 +1,5 @@
-<h1> Holaaa!</h1>
-Soy un desarrollador web con ganas de aportar soluciones innovadoras.
+<h1> Holaaa!</h1><h2>
+Soy un desarrollador web con ganas de aportar soluciones innovadoras.</h2>
 
 <hr/>
 
