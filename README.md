@@ -7,7 +7,7 @@ Soy un desarrollador web con ganas de aportar soluciones innovadoras.
 
 <h4>Dog project</h4>
 
-<img src="./pidog.PNG"/>
+<img src="./dogspi.PNG"/>
 
 <!--
 **LucasSantillan0/LucasSantillan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
