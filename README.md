@@ -7,8 +7,14 @@ Soy un desarrollador web con ganas de aportar soluciones innovadoras.
 
 <h4>Dog project</h4>
 
-<video src="./dogvideo.mp4"></video>
 <img src="./dogspi.PNG"/>
+<h5>Esta es una aplicación que, haciendo uso de un servidor con su respectiva base de datos; puede crear, filtrar, y ordenar razas de perros. </h5>
+<img src="./dogpi1.PNG"/>
+
+<hr/>
+
+
+
 
 <!--
 **LucasSantillan0/LucasSantillan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
