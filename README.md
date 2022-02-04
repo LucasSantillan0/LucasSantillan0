@@ -1,5 +1,5 @@
 <h1> Holaaa!</h1><h2>
-Soy un desarrollador web con ganas de aportar soluciones innovadoras.</h2>
+Soy un desarrollador web con ganas de aportar soluciones innovadoras. </h2>
 
 <hr/>
 <h2> Mis tecnologias</h2>
@@ -8,6 +8,8 @@ Soy un desarrollador web con ganas de aportar soluciones innovadoras.</h2>
   <li>Redux</li>
   <li>Node.js</li>
   <li>Express.js</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
 </ul>
 <h2> Mis proyectos</h2>
 
@@ -26,10 +28,14 @@ Soy un desarrollador web con ganas de aportar soluciones innovadoras.</h2>
 <h3>A través de esta aplicación, podemos hablar y enseñarle a responder a un bot. Si bien se encuentra en desarrollo, quien así quisiera puede descargarla <a href="https://drive.google.com/file/d/1GW0nJRgGvDcNEpUsTzUcIgFcQ1r0TR07/view">aquí</a> y darme feedback! </h3>
   
 <img src="./chat01.jpg"/>
-
+<hr/>
+<br/>
+<span>
+Actualmente me encuentro trabajando en Devsu
+</span>
 <br/>
   <hr/>
-  <h2>Actualmente me encuentro buscando trabajo. si estás interesado en contratarme podés hablarme por <a href="https://www.linkedin.com/in/lucas-santillan/">LinkedIn</a> o contactarme vía Mail: lukitas6641@gmail.com
+  <h2>Si estás interesado en contratarme podés hablarme por <a href="https://www.linkedin.com/in/lucas-santillan/">LinkedIn</a> o contactarme vía Mail: lukitas6641@gmail.com
   
 
 
