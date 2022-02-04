@@ -2,7 +2,13 @@
 Soy un desarrollador web con ganas de aportar soluciones innovadoras.</h2>
 
 <hr/>
-
+<h2> Mis tecnologias</h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+</ul>
 <h2> Mis proyectos</h2>
 
 <h3>Dog project</h3>
